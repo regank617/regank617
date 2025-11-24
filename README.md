@@ -2,9 +2,8 @@
 
 Ph.D. Candidate in Bioinformatics Data Science at the University of Delaware | AI & ML Enthusiast | Pioneering Real-Time Pathogen Detection with Generative AI
 
-I'm a researcher at the intersection of bioinformatics, data science, and electrical engineering. My work focuses on leveraging deep learning—think Transformers, VQ-VAEs, and GANs—to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
+I'm a researcher at the intersection of bioinformatics, data science, and electrical engineering. My work focuses on leveraging deep learning (Transformers, VQ-VAEs, and GANs) to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
 
-![Profile Banner](https://via.placeholder.com/1280x300?text=AI+for+Airborne+Threat+Detection) <!-- Replace with a custom banner image if you have one -->
 
 ## 🚀 Skills
 - **Languages & Tools**: Python 🐍, PyTorch 🔥, Git 📂, Weights & Biases 📊, C, LaTeX
@@ -45,26 +44,6 @@ Zeteo Tech Inc., Sykesville, MD | Feb 2021 – Sept 2023
 - Explored invertible mass spectrograms with DCT for proteomics using vision models.  
 - Implemented a modified Pix2Pix cGAN to upscale low-res spectrograms.  
 - Contributed to grant proposals and team presentations.
-
-## 📚 Publications & Patents
-1. **Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry**  
-   Regan, K.M; McLoughlin, M.; Bryden, W.A.; Arce, G.R.  
-   *Submitted to Computers in Biology and Medicine, 2025.*
-
-2. **digitalMALDI: A Single-Particle–Based Mass Spectrometric Detection System for Biomolecules**  
-   Chen, D.; Bryden, W.A.; McLoughlin, M.; Ecelberger, S.A.; Cornish, T.J.; Moore, L.P.; Regan, K.M.  
-   *Journal of Mass Spectrometry, 2025, 60(2): e5110.* DOI: [10.1002/jms.5110](https://doi.org/10.1002/jms.5110)
-
-3. **Methods and Systems for Detecting Aerosol Particles**  
-   McLoughlin, M.; Kliegman, R.; Cornish, T.; Berkout, V.; Ecelberger, S.; Arce, G.; Regan, K.  
-   *U.S. Patent Application No. US 2024/0282568 A1*, filed May 2, 2024; published August 22, 2024.
-
-## 🗣️ Symposium Presentations
-1. **Wavelet-Flow Tokenization for Efficient Mass Spectral Generation via Next-Scale Prediction**  
-   Bioinformatics Data Science Symposium, Newark, DE | October 2025.
-
-2. **Deep Learning Architecture for Rapid Pathogen Identification using Portable Aerosol Mass Spectrometry**  
-   Data Science and DARWIN Symposium, Newark, DE | February 2025.
 
 ## 🌟 Leadership & Volunteering
 - **Team Leader – Deep Learning Course** | Dept. of Electrical and Computer Engineering | Spring 2024, 2025 – Ongoing  
