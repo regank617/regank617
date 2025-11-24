@@ -1,2 +1,96 @@
-# regank617
-# regank617
+# 👋 Hi, I'm Kyle Regan
+
+Ph.D. Candidate in Bioinformatics Data Science at the University of Delaware | AI & ML Enthusiast | Pioneering Real-Time Pathogen Detection with Generative AI
+
+I'm a researcher at the intersection of bioinformatics, data science, and electrical engineering. My work focuses on leveraging deep learning—think Transformers, VQ-VAEs, and GANs—to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
+
+![Profile Banner](https://via.placeholder.com/1280x300?text=AI+for+Airborne+Threat+Detection) <!-- Replace with a custom banner image if you have one -->
+
+## 🚀 Skills
+- **Languages & Tools**: Python 🐍, PyTorch 🔥, Git 📂, Weights & Biases 📊, C, LaTeX
+- **Intangibles**: Cross-team collaborations 🤝, Technical presentations 🎤, Interdisciplinary problem-solving 🌐, Grant writing 💰
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-orange?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-green?style=flat&logo=git&logoColor=white)
+
+## 🎓 Education
+- **Ph.D. in Bioinformatics Data Science**  
+  University of Delaware | Sept 2023 – Present  
+  *NIH/NIGMS T32 CBB Predoctoral Training Fellow (2023)*  
+  *Zeteo Tech–University of Delaware Research Grant (2024, 2025)*
+
+- **Honors B.E. in Electrical Engineering** (Minor in Computer Science)  
+  University of Delaware | Sept 2019 – May 2023  
+  *Eta Kappa Nu Award*
+
+## 💼 Experience
+### Graduate Research Assistant  
+University of Delaware, Newark, DE | Sept 2023 – Ongoing  
+- Engineered a novel wavelet-based tokenizer for autoregressive modeling of time-series data.  
+- Boosted microbial classification accuracy to 98.3% using biology-guided transformers.  
+- Developed ML/AI for LASSO optimization in pathogen detection from mass spectral data.  
+- Secured industry-academic partnerships and a two-year grant for real-world applications.
+
+### Machine Learning Intern  
+Zeteo Tech Inc., Sykesville, MD | Summer 2024 & 2025  
+- Built self-supervised generative AI for detecting respiratory diseases from breath aerosols.  
+- Enhanced feature representations with self-supervised learning for better classification.  
+- Integrated sparse signal processing with LLMs for efficient pathogen pipelines.  
+- Deployed real-time environmental monitoring systems for public health.
+
+### Undergraduate Engineering Intern  
+Zeteo Tech Inc., Sykesville, MD | Feb 2021 – Sept 2023  
+- Created preprocessing pipelines for baseline detection and peak alignment in portable spectrometers.  
+- Explored invertible mass spectrograms with DCT for proteomics using vision models.  
+- Implemented a modified Pix2Pix cGAN to upscale low-res spectrograms.  
+- Contributed to grant proposals and team presentations.
+
+## 📚 Publications & Patents
+1. **Unmasking Airborne Threats: Guided-Transformers for Portable Aerosol Mass Spectrometry**  
+   Regan, K.M; McLoughlin, M.; Bryden, W.A.; Arce, G.R.  
+   *Submitted to Computers in Biology and Medicine, 2025.*
+
+2. **digitalMALDI: A Single-Particle–Based Mass Spectrometric Detection System for Biomolecules**  
+   Chen, D.; Bryden, W.A.; McLoughlin, M.; Ecelberger, S.A.; Cornish, T.J.; Moore, L.P.; Regan, K.M.  
+   *Journal of Mass Spectrometry, 2025, 60(2): e5110.* DOI: [10.1002/jms.5110](https://doi.org/10.1002/jms.5110)
+
+3. **Methods and Systems for Detecting Aerosol Particles**  
+   McLoughlin, M.; Kliegman, R.; Cornish, T.; Berkout, V.; Ecelberger, S.; Arce, G.; Regan, K.  
+   *U.S. Patent Application No. US 2024/0282568 A1*, filed May 2, 2024; published August 22, 2024.
+
+## 🗣️ Symposium Presentations
+1. **Wavelet-Flow Tokenization for Efficient Mass Spectral Generation via Next-Scale Prediction**  
+   Bioinformatics Data Science Symposium, Newark, DE | October 2025.
+
+2. **Deep Learning Architecture for Rapid Pathogen Identification using Portable Aerosol Mass Spectrometry**  
+   Data Science and DARWIN Symposium, Newark, DE | February 2025.
+
+## 🌟 Leadership & Volunteering
+- **Team Leader – Deep Learning Course** | Dept. of Electrical and Computer Engineering | Spring 2024, 2025 – Ongoing  
+  Mentored undergrads on PyTorch projects, data management, and presentations.
+
+- **Bioinformatics Student Association Mentor** | Center for Bioinformatics and Computational Biology | Spring 2025 – Ongoing  
+  Guided first-year grad students in academics and community building.
+
+- **Graduate Student Government Senator** | Center for Bioinformatics and Computational Biology | Sept 2025 – Ongoing  
+  Represented the program and served on the Graduate Research Advancements Committee.
+
+- **Computer Science Instructor** | Dept. of Computer and Information Sciences | January 2023  
+  Taught K-4 students in Hawaii computational concepts via interactive Java/TypeScript games.
+
+## 🏃 Hobbies
+Running, weight lifting, biking, drumming, and jamming to music. Always up for a good trail run or band session!
+
+## 📫 Connect with Me
+- **Email**: [kylereganm@gmail.com](mailto:kylereganm@gmail.com)
+- **GitHub**: [@kylereganm](https://github.com/kylereganm)
+- **LinkedIn**: [Kyle Regan](https://www.linkedin.com/in/kylereganm) <!-- Add if available; otherwise remove -->
+
+Thanks for stopping by! Feel free to check out my repos or drop a message. 🚀
+
+---
+
+*Last updated: November 2025*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kylereganm&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kylereganm&layout=compact&theme=radical)
