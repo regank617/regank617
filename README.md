@@ -4,7 +4,7 @@ Ph.D. Candidate in Bioinformatics Data Science at the University of Delaware | A
 
 I'm a researcher at the intersection of bioinformatics, data science, and electrical engineering. My work focuses on leveraging deep learning (Transformers, VQ-VAEs, and GANs) to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
 
-
+**Started this GitHub Setepmber 1st, integrating my educational and professional repositories from 2022 to 2025 into one profile.**
 ## 🚀 Skills
 - **Languages & Tools**: Python 🐍, PyTorch 🔥, Git 📂, Weights & Biases 📊, C, LaTeX
 - **Intangibles**: Cross-team collaborations 🤝, Technical presentations 🎤, Interdisciplinary problem-solving 🌐, Grant writing 💰
@@ -37,26 +37,6 @@ Zeteo Tech Inc., Sykesville, MD | Summer 2024 & 2025
 - Enhanced feature representations with self-supervised learning for better classification.  
 - Integrated sparse signal processing with LLMs for efficient pathogen pipelines.  
 - Deployed real-time environmental monitoring systems for public health.
-
-### Undergraduate Engineering Intern  
-Zeteo Tech Inc., Sykesville, MD | Feb 2021 – Sept 2023  
-- Created preprocessing pipelines for baseline detection and peak alignment in portable spectrometers.  
-- Explored invertible mass spectrograms with DCT for proteomics using vision models.  
-- Implemented a modified Pix2Pix cGAN to upscale low-res spectrograms.  
-- Contributed to grant proposals and team presentations.
-
-## 🌟 Leadership & Volunteering
-- **Team Leader – Deep Learning Course** | Dept. of Electrical and Computer Engineering | Spring 2024, 2025 – Ongoing  
-  Mentored undergrads on PyTorch projects, data management, and presentations.
-
-- **Bioinformatics Student Association Mentor** | Center for Bioinformatics and Computational Biology | Spring 2025 – Ongoing  
-  Guided first-year grad students in academics and community building.
-
-- **Graduate Student Government Senator** | Center for Bioinformatics and Computational Biology | Sept 2025 – Ongoing  
-  Represented the program and served on the Graduate Research Advancements Committee.
-
-- **Computer Science Instructor** | Dept. of Computer and Information Sciences | January 2023  
-  Taught K-4 students in Hawaii computational concepts via interactive Java/TypeScript games.
 
 ## 🏃 Hobbies
 Running, weight lifting, biking, drumming, and jamming to music. Always up for a good trail run or band session!
