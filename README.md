@@ -4,7 +4,7 @@ Ph.D. Candidate in Bioinformatics Data Science at the University of Delaware | A
 
 I'm a researcher at the intersection of bioinformatics, data science, and electrical engineering. My work focuses on leveraging deep learning (Transformers, VQ-VAEs, and GANs) to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
 
-**Started this GitHub Setepmber 1st, integrating my educational and professional repositories from 2022 to 2025 into one profile.**
+**Started this GitHub Setepmber 2025, integrating my educational and professional repositories from 2022 to 2025 into one profile.**
 ## 🚀 Skills
 - **Languages & Tools**: Python 🐍, PyTorch 🔥, Git 📂, Weights & Biases 📊, C, LaTeX
 - **Intangibles**: Cross-team collaborations 🤝, Technical presentations 🎤, Interdisciplinary problem-solving 🌐, Grant writing 💰
