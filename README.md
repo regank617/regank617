@@ -2,7 +2,7 @@
 
 Ph.D. Candidate in Bioinformatics Data Science at the University of Delaware | AI & ML Enthusiast | Pioneering Real-Time Pathogen Detection with Generative AI
 
-I'm a researcher at the intersection of biology, data science, and electrical engineering. My work focuses on leveraging deep learning (Transformers, VQ-VAEs, and GANs) to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
+I'm a researcher at the intersection of **biology, data science, and electrical engineering**. My work focuses on leveraging deep learning (Transformers, VQ-VAEs, and GANs) to enable portable mass spectrometry for detecting airborne threats in real-world settings like hospitals, airports, and subways. Passionate about turning complex data into actionable insights, I thrive in collaborative, interdisciplinary teams. When I'm not coding or presenting, you'll find me running trails or drumming up a beat.
 
 **Started this GitHub Setepmber 2025, integrating my educational and professional repositories from 2022 to 2025 into one profile.**
 ## 🚀 Skills
